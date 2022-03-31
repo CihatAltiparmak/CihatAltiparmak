@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CihatAltiparmak](https://github.com/CihatAltiparmak)
 
-- 📝 I regularly write articles on [cihataltiparmak.github.io](cihataltiparmak.github.io)
+- 📝 I regularly write articles on [cihataltiparmak.github.io](https://cihataltiparmak.github.io)
 
 - 📫 How to reach me **cihataltiparmak1@gmail.com**
 
