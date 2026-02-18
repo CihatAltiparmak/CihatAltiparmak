@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihat Altıparmak</h1>
-<h3 align="center">I'm computer engineering undergraduate student</h3>
+<h3 align="center">I'm Computer Engineer specializing at embedded Linux and robotics field. Engineer by day, gamer by night</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itu-itis21-altiparmak20&label=Profile%20views&color=0e75b6&style=flat" alt="itu-itis21-altiparmak20" /> </p>
 
